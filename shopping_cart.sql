@@ -65,12 +65,3 @@ insert into login(username,password) values
 'admin', 
 'admin' 
 );
-
-insert into product_list(p_name,p_desc,p_price,p_photo) values 
-(  
-'Amazon-Echo-Dot', 
-'Echo Dot (2nd Generation) is a hands-free, voice-controlled device that uses Alexa to play music, control smart home devices, provide information, read the news, set alarms, and more
-Connects to speakers or headphones through Bluetooth or 3.5 mm stereo cable to play music from Amazon Music, Spotify, Pandora, iHeartRadio, and TuneIn',
-49.99,
-'D:/Java_Training/java proj/images/image1.jpg' 
-);
